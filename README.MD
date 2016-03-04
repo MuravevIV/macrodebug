@@ -1,0 +1,1 @@
+![Macro Debug Settings](docs/img/Macro_Debug_Settings.png?raw=true "Macro Debug Settings")
